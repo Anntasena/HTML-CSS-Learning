@@ -1,0 +1,39 @@
+body{
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.container01{
+  background-color: red;
+  height: 800px;
+  width: 800px;
+  position: relative;
+}
+
+.container02{
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+
+.container03{
+  background-color: blue;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.container04{
+  background-color: green;
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top: 40px;
+  right: 40px;
+}
