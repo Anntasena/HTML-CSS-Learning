@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+    font-family: sans-serif; /*Jenis Font*/
+}
+
+h1 {
+    font-size: 26px; /*Ukuran Font*/
+    text-transform: uppercase; /*Transfrormasi Font*/
+    font-style: italic; /*Penampilan Font*/
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center; /*Mengatur Tata Letak Horizontal Text*/
+}
+
+p {
+    font-size: 22px;
+    line-height: 1.5; /*Jarak Baris*/
+}
+
+li {
+    font-size: 20px;
+}
+
+footer p {  /*Decendants Element*/
+    font-size: 16px;
+}
+
+article header p { /*Nested Element*/
+    font-style: italic;
+}

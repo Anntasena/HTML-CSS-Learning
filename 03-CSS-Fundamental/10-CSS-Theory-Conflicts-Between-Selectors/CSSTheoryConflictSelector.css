@@ -1,0 +1,44 @@
+#testID {
+  font-size: 20px;
+}
+
+.testClass {
+  font-style: italic;
+  font-size: 18px;
+}
+
+p {
+  font-family: sans-serif;
+  color: grey;
+  font-size: 22px;
+}
+
+/*Semua properti (font-size) berlaku tanpa terkecuali yang membedakan hanyalah prioritasnya*/
+
+/*Resovling Conflicts*/
+
+/*PRIORITAS 1*/
+#priority {  
+  color: red;
+}
+
+/*PRIORITAS 3*/
+.priority {
+  color: green;
+}
+
+/*PRIORITAS 2 Karena mempunyai hirarki yang sama maka yg di tulis terakhir yang menjadi prioritas*/ 
+.priority2 {
+  color: yellow;
+}
+
+/*PRIORITAS 4*/
+footer p {
+  color: blue;
+}
+
+/*karna Priority paling atas di sini adalah ID Selector maka value yang keluar adalah dari #priority{}*/
+
+aside div {
+  color: green !important; /*Prioritas tertinggi Selector CSS*/
+}

@@ -1,0 +1,48 @@
+(TYPE BOX THEROY CSS)
+
+Dalam CSS "Type Box" merujuk pada dua jenis utama box model yang digunakan untuk menentukan bagaimana elemne-elemen HTML diatur dan dirender di halaman web: block-level dan Inline-box
+
+(Ciri-ciri)
+
+(Box-Level Element)
+  > 1. Elemen-element block-level mengisi seluruh lebar kontainer induknya
+    2. Elemen tersusun secara vertikal by default
+    3. Dimulai dari baris baru dan mengambil ruang sepanjang mungkin secara horizontal
+    4. Gaya yang diterapkan pada elemen block-level biasanya berlaku untuk seluruh kotak (misalnya: lebar, tinggi, margin, padding)
+    5. Dapat di rekayasa di CSS menggunakan (dispay: block;)
+    6. Contoh elemen block-level:
+        - body
+        - main
+        - header
+        - footer
+        - section
+        - nav
+        - aside
+        - div
+        - h1 - h6
+        - p 
+        - ul
+        - ol
+        - li
+        - dan lain-lain
+      
+  (Inline Element)
+  > 1. Elemen-elemen Inline-Box hanya mengisi ruang yang diperlukan oleh kontennya
+    2. Tidak dimulai dari baris baru dan hanya mengambil ruang yang diperlukan oleh konten mereka
+    3. Inline-box menerapkan dengan cara yang berbeda: panjang dan lebar tidak mempunyai efek apapun
+    4. Padding dan margin hanya bisa di terapkan secara horizontal
+    5. Dapat di rekayasa di CSS menggunakan (dispay: inline;)
+    5. Contoh Inlne-Box Element:
+        - span 
+        - a
+        - strong
+        - em 
+        - button 
+        - dan lain-lain
+
+(Inline-Block-Box)
+> 1. Terlihat seperti inline dari luar, dan berprilaku seperti elemen box level di bagian dalam
+  2. Inline-Boxes hanya menenpati ruang yang mereka butuhkan untuk konten
+  3. Tidak menyebakan line-breaks apapun
+  4. Box-model berlaku dan dapat di tunjukan
+  5. Dapat di rekayasa di CSS menggunakan (dispay: inline-block;)

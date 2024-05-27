@@ -1,0 +1,15 @@
+(Developer Tools)
+
+Setiap Browser moderen berisi seperangkat alat yang membuat pengembang jauh lebih mudah dan ini secara kolektif disebut DevTools
+
+(Cara Membuka DevTools di Chrome)
+1. Klik Kanan > Pilih Inspect / Inspect Element
+2. Klik Hamburger icon > pilih Developer Tools
+3. Menggunakan Shortcut (Ctrl + Shift + I)
+
+DevTools membuat pekerjaan menjadi efisien sekaligus dapat digunakan untuk menguji hasil pekerjaan
+
+(Catatan)
+> Berberapa Tag mempunyai Default yang unik, seperti:
+  - h1 = tag ini secara Default sytlenya bold
+  - Dan lain-lain

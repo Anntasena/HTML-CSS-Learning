@@ -1,0 +1,22 @@
+(Psuedo Elements)
+
+Pada dasarnya Psuedo elemnts adalah elemen yang tidak ada di HTML tetapi kita masih bisa memilih dan menata gaya dalam CSS
+
+Contoh umum dari psuedo element:
+  > Huruf pertama dari sebuah paragraf
+  > Baris pertama
+  > Berberapa paragraf dari berberapa teks lainnya
+
+*Penting
+  > Psuedo Classes ditulis dengan satu titik
+    (h1:active)
+  > Psuedo Elements di tulis dengan dua titik
+    (h1::first-elements)
+
+Psuedo Element Paling sering diguanakan yaitu:
+  1. after = menciptakan elemen semu yang secara otomatis akan menajadi anak pertama dari elemen yang dipilih (h1::after)
+  2. before = menciptakan elemen semu yang secara otomatis akan menajadi anak terakhir dari elemen yang dipilih (h1::before)
+
+*Penting
+  > Psuedo Element secara default sebenarnya adalah Inline Elements
+  > Jadi jika ingin menabahka space bottom dan top harus menambahkan attribute "display:inline-block"

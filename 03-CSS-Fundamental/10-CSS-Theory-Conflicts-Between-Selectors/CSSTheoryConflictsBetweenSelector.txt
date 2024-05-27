@@ -1,0 +1,25 @@
+Apa yang terjadi jika ada berberapa aturan CSS yang berlaku untuk element yang sama?
+
+(Conflicting Selector and Declaration)
+
+> Jika Ada properti di CSS bentrok maka semuanya berlaku, tetapi value yang di hasilkan tergantung prioritasnya
+
+(Prioritas dalam CSS) -1 hingga 4
+
+-1. Declaration marked !important (Di pakai hanya sebagai pilihan terakhir)
+0. Inline Style (Style attribute in HTML)
+---------------------------------------------------
+1. ID Selector
+2. Class Selector
+3. Element Selector
+4. Universal Selector
+
+*Namun jika terdapat banyak selector dengan hirarki yang sama maka value code terakhir yang akan di ambil
+
+(Prioritas dengan Pseudo Class)
+
+1. Pseudo Class Element
+1. Element
+
+Contoh:
+ - a:link (menjadi prioritas) daripada a

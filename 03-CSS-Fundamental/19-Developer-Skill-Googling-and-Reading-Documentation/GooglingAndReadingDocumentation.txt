@@ -1,0 +1,28 @@
+(DEVELOPER SKILL : GOOGLING AND READING DOCUMENTATION)
+
+Kita sebagai developer tidak perlu menghafal stiap properti CSS yang ada, dan bahkan ketika kita belum tahu segalanya kita tetap bisa menulis CSS.
+
+*Jadi sebagai pemula sangat penting bagi kita untuk menyadari fakta bahwa tidak apa-apa untuk tidak mengetahui segalanya dan anda dapat mencari di google ketika kita tidak tau apa-apa atau membaca dokumentasi
+
+(TEKNIK GOOGLING)
+  1. Search Kata kunci "CSS" di awal kalimat
+  2. kemudian dilanjutkan dengan properti yang ingin anda cari. Contoh:
+      > CSS properti too add mouse cursor to button
+      > CSS properti too make text move on center
+  3. Biasanya Website yang di muncul adalah "stackoverflow.com"
+      *stackoverflow adalah website dimana jutaan pengguna telah memposting puluhan atau mungkin ratusan juta pertanyaan tentang semua jenis pemrograman dan itu termasuk CSS
+  4. w3schools.com bukan refrensi yang baik jadi sebaiknya jangan gunakan itu
+
+  Website yang baik untuk googing:
+    > stackoverflow.com
+    > css-trick.com
+    > developer.mozilla.org
+
+  website yang kurang baik untuk googling:
+    > w3schools.com
+
+*Penting, jadi intinya kita hanya bisa menyelesaikan masalah hanya dengan googling
+
+((((SESUNGGUHNYA, PARA DEVELOPER TIDAK PERNAH TAU SEGALANYA))))
+
+Tentu saja kita perlu mengetahui dasar-dasar tentang bagaimana CSS bekerja, tetapi kita tidak perlu menghafal setiap properti

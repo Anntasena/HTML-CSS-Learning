@@ -1,0 +1,38 @@
+(Inheritance Theory and Universal Selector)
+
+Inheritance (warisan) dalam CSS adalah konsep di mana properti gaya dari elemen induk dapat diturunkan ke elemen anaknya
+
+* Konsepnya mirip warisan dalam kehidupan nyata, dimana seseorang dapat mewariskan ciri-ciri tertentu kepada anaknya
+
+(Properti yang bisa di wariskan)
+ - Yang terkait dengan tatak letak dan tampilan visual
+   > Warna teks
+   > Jenis Huruf
+   > Gaya Huruf
+   > Ukuran Font
+   > Dan lain-lain
+
+(Properti yang tidak bisa di wariskan)
+    > Margin
+    > Padding
+    > Positioning
+
+* Inheritance Sangat berguna dalam mengorganisir kode CSS dan memungkinkan untuk membangun gaya yang konsisten di seluruh web tanpa harus menulis ulang kode gaya yang sama berulang kali
+
+------------------
+
+(Univerasal Selector)
+
+Universal Selector (*) adalah selector dalam CSS yang digunakan untuk memilih semua element di halaman web. Ini memungkinkan kita untuk menerapkan gaya kepada setiap elemen dalam dokumen tanpa memperhatikan jenis atau struktur elemen tersebut
+
+Contoh penggunaan Universal Selector dalam CSS:
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+Dalam contoh di atas, properti CSS seperti margin, padding, dan box-sizing diterapkan ke semua elemen di halaman web. Ini dapat berguna untuk mengatur ulang beberapa properti default yang mungkin berbeda di berbagai peramban web, serta untuk memastikan bahwa kotak-model (box model) diatur secara konsisten di seluruh situs web.
+
+* Meskipun Universal Selector dapat berguna dalam berberapa situasi, perlu di ingat bahwa penggunaan yang berlebihan dapat mengakibatkan kinerja yang buruk, karna browser harus menghitung dan menerapkan gaya ke setiap elemen di halaman.

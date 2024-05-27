@@ -1,0 +1,37 @@
+(THE CSS BOX MODEL)
+
+BOX MODEL?
+  > Box Model di definisikan bagaimana elemen di tampilkan pada halaman web dan bagaimana ukurannya
+    - Jadi dalam Box Model, setiap elemen pada halaman web dapat di lihat sebagai kotak persegi panjang
+    - Setiap kotak dapat memiliki content, border, dan space di dalam dan diluarnya
+
+Definisi bagian di Box Model
+  
+  > (Content) = aktual konten dari elemen tersebut
+    - Text
+    - Images
+    - Table
+    - Video
+    - dan lain-lain
+  * Dengan menggunakan properti CSS, kita dapat menentukan height (tinggi) dan widht (lebar) area 
+
+  > (Border) = Border adalah garis yang mengelilingi elemen
+    - secara teknis tetap di dalam elemen
+
+  > (Padding) = Padding pada dasarnya adalah ruang putih yang tidak terlihat yang dapat kita buat di sekitar konten elemen
+    - Padding terletak diantara content dan border
+    - Secara teknis padding termasuk di dalam elemen
+
+  > (Margin) = Margin adalah ruang kosong yang terdapat di luar Content
+    - Dalam Praktek, kita menggunakan margin untuk menciptakan ruang di antara element-element pada halaman kita
+
+  > (Fill Area) = Area yang mencakup konten plus padding, tetapi tidak termasuk border dan margin
+
+(ELEMENT HEIGHT AND WIDHT CALCULATION)
+
+  > FINAL ELEMENT WIDHT = Left (border) + Left (padding) + widht + right (padding) + right (border)
+  > FINAL ELEMENT HEIGHT = Top (border) + Top (padding) + height + Bottom (padding) + Bottom (border)
+
+  * Kita dapat menentukan semua ukuran individual ini menggunakan properti CSS tertentu
+  * Cara mengghitung tinggi dan lebar ini hanyalah prilaku default dari Box Model
+  * Kita dapat menggubah default ini karna terkadang tidak masuk akal

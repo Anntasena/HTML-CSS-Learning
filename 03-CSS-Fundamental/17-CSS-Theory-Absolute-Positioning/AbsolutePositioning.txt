@@ -1,0 +1,17 @@
+(ABSOLUTE POSITIONING)
+
+(Normal Flow VS Absolute Positioning)
+
+Normal Flow
+  > Positioning Default
+  > Element is "In Flow"
+  > Elemen ditata sesuai dengan kode sumber dalam HTML
+  > Dapat di rekayasa di CSS menggunakan kode:
+    position: relative;
+
+Absolute Positioning
+  > Elemen tersebut kemudian dihapus dari aliran normal dan kita katakan bahwa elemen tersebut "keluar dari aliran"
+  > Elemen tersebut kehilangan dampak apa pun pada elemen-elemen sekitar dan bahkan tumpang-tindih dengan elemen-elemen tersebut
+  > Untuk benar-benar memposisikan elemen yang benar-benar di posisikan, kita bisa menggunakan properti "top, bottom, left, right" untuk memposisikan dan pemosisian itu akan terjadi dalam kaitannya dengan wadah yang di posisikan secara relatif
+  > Dapat  di rekayasa di CSS menggunakan kode:
+    position: absolute;

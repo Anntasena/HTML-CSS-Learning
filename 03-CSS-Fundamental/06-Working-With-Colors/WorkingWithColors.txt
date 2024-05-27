@@ -1,0 +1,52 @@
+(THE RGB MODEL)
+
+RGB Model : Setiap warna yang bisa direpresentasikan oleh kombinasi dari RED(Merah), GREEN(Hijau), BLUE(Biru)
+
+Dalam model RGB: Setiap warna memiliki insentitas yang berkisar dari 0 - 255
+> 0 mengindikasikan ketiadaan warna
+> 255 mengindikasikan insensitas penuh
+
+* Kombinasi intnsitas ini menciptakan spektrum warna yang luas hingga 16.8 juta warna
+
+Contoh warna dalam RGB:
+> RED = rgb(255, 0, 0)
+> GREEN = rgb(0, 255, 0)
+> BLUE = rgb(0, 0, 255)
+> MAGENTA = rgb(255, 0, 255)
+> CYAN = rgb(0, 255, 255)
+> YELLOW = rgb(255, 255, 0)
+> WHITE = rgb(255, 255, 255)
+> BLACK = rgb(0, 0, 0)
+
+
+(MENDEFINISIKAN WARNA DI CSS)
+
+1. RGB / RGBA NOTATION
+  > Regular RGB model
+    rgb(0, 255, 255)
+  > RGB with trasparency ("alpha")
+    rgba(0,255,255,0.5)
+
+2. HEXADECIMAL NOTATION
+  > 0 to ff (255 in hexadecimal numbers)
+    #00ffff
+  > Shorthand, Bisa digunakan saat ada identik karakter
+    #0ff
+
+Contoh:
+  > rgb(244,179,63) => RGB Notation
+  > #f4b33f => Hexadecimal Notation
+
+
+* Dalam Praktek, kita cenderung menggunakan hexadecimal notation dan RGBA saat kita butuh trasparency
+
+(SHADE OF GREY)
+
+1. Saat warna ada di dalam 3 area yang sama kita akan mendapatkan warna GREY (abu-abu)
+2. Ada 256 abu-abu murni untuk di pilih
+
+Contoh:
+  > rgb(0, 0, 0) => #000000 / #000
+  > rgb(69, 69, 69) => #444444 / #444
+  > rgb(183, 183, 183) => #b7b7b7 
+  > rgb(255, 255, 255) => #ffffff / #fff

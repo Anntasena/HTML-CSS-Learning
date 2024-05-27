@@ -1,0 +1,118 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+    font-family: sans-serif; /*Jenis Font*/
+    color: #444;
+}
+
+h1,
+h2,
+h3 {
+    color: #1098ad; /*Warna Font*/
+}
+
+h1 {
+    font-size: 26px; /*Ukuran Font*/
+    text-transform: uppercase; /*Transfrormasi Font*/
+    font-style: italic; /*Penampilan Font*/
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center; /*Mengatur Tata Letak Horizontal Text*/
+}
+p {
+    font-size: 22px;
+    line-height: 1.5; /*Jarak Baris*/
+}
+
+li {
+    font-size: 20px;
+}
+
+/*Memanggil ID Selector*/
+#author {
+    font-style: italic;
+    font-size: 18px;
+}
+
+#copyright {
+    font-size: 16px;
+}
+
+/*Memanggil Class Selector*/
+.related-author {
+    font-size: 18px;
+    font-weight: bold; /*Mengatur Ketebalan Font*/
+}
+
+.related {
+    list-style: none; /*Mengontrol Tampilan Penomoran*/
+}
+
+.main-header {
+    background-color: #f7f7f7; /*Warna Background*/
+}
+
+aside {
+    background-color: #f7f7f7;
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid #1098ad;
+    /*5px(widht) solid(Style) #1098ad(color)*/
+}
+
+/* .first-li {
+    font-weight: bold;
+} */
+
+/*Syntax Pseudo Classes*/
+li:first-child {
+    /*untuk Tag (li) pertama*/
+    font-weight: bold;
+}
+
+li:last-child {
+    /*untuk Tag (li) terakhir*/
+    font-style: italic;
+}
+
+/*Styling Links*/
+
+
+a:link {  /*Menargetkan Tag (a) yang mempunyai atribut "href"*/
+    color: #1098ad;
+    text-decoration: none; /*Mengatur Dekorasi Text seperti Garis Bawah*/
+}
+
+a:visited { /*Digunakan untuk merancang tampilan Link yang telah di kunjungi*/
+    color: #1098ab
+}
+
+a:hover { /*Digunakan untuk merancang tampilan di sebuah elemen ketika mouse berdada di atas elemen tersebut*/
+    color: orangered;
+    font-weight: bold;
+    text-decoration: underline dotted orangered;
+    /*underline(TD-line), dotted(TD-style), orangered(TD-color)*/
+}
+
+a:active { /*Digunakan untuk merancang tampilan di sebuah elemene ketika di klik atau aktif*/
+    background-color: black;
+    font-style: italic;
+}
+
+/*
+Penulisan Styling Hyperling hampir selalu berurutan
+(L => V => H => A)
+*/

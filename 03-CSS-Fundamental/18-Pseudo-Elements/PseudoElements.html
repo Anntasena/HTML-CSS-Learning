@@ -1,48 +1,32 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="style.css" />
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
+        <link href="PsuedoElements.css" rel="stylesheet" />
 
         <title>The Basic Language of the Web: HTML</title>
     </head>
 
     <body>
-        <!--
-        <h1>The Basic Language of the Web: HTML</h1>
-        <h2>The Basic Language of the Web: HTML</h2>
-        <h3>The Basic Language of the Web: HTML</h3>
-        <h4>The Basic Language of the Web: HTML</h4>
-        x<h5>The Basic Language of the Web: HTML</h5>
-        <h5>The Basic Language of the Web: HTML</h5>
-    -->
-
         <div class="container">
-            <header class="main-header clearfix">
+            <header class="main-header">
                 <h1>📘 The Code Magazine</h1>
 
                 <nav>
-                    <a href="learnPage.html">Learn HTML</a>
+                    <a href="learnPage.html">Blog</a>
                     <a href="#">Challanges</a>
                     <a href="#">FlexBOx</a>
                     <a href="#">CSS Grid</a>
                 </nav>
-
-                <!-- <div class="clear"></div> -->
             </header>
 
             <article>
                 <header class="post-header">
                     <h2>The Basic Language of the Web: HTML</h2>
 
-                    <img
-                        src="img/laura-jones.jpg"
-                        width="50"
-                        height="50"
-                        class="author-img"
-                    />
+                    <img src="img/laura-jones.jpg" width="50" height="50" />
 
-                    <p id="author" class="author">
+                    <p id="author">
                         Posted by <strong>Laura Jones</strong> on Monday, June
                         21st 2027
                     </p>
@@ -54,10 +38,11 @@
                         height="200"
                         class="post-img"
                     />
+                    <button>❤ Like</button>
                 </header>
+                All modern websites and web applications are built using
 
                 <p>
-                    All modern websites and web applications are built using
                     three
                     <em>fundamental</em> technologies: HTML, CSS and JavaScript.
                     These are the languages of the web.
@@ -88,8 +73,8 @@
                 <p>In HTML, each element is made up of 3 parts:</p>
 
                 <ol>
-                    <li>The opening tag</li>
-                    <li>The cltagosing</li>
+                    <li class="first-li">The opening tag</li>
+                    <li>The closing tag</li>
                     <li>The actual element</li>
                 </ol>
                 <p>
@@ -109,7 +94,9 @@
                 </p>
 
                 <ul>
-                    <li>To be able to use the fundamental web dev language</li>
+                    <li class="first-li">
+                        To be able to use the fundamental web dev language
+                    </li>
                     <li>
                         To hand-craft beautiful websites instead of relying on
                         tools like Worpress or Wix
@@ -164,12 +151,9 @@
             </aside>
 
             <footer>
-                <p id="copyright" class="copyright text">
-                    Copyright &copy; 2027 by The Code Megazine
-                </p>
+                <p id="copyright">Copyright &copy; 2027 by The Code Megazine</p>
             </footer>
         </div>
 
-        <button>❤ Like</button>
     </body>
 </html>

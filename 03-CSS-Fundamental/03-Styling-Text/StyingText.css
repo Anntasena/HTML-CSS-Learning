@@ -1,0 +1,34 @@
+h1 {
+    font-size: 26px; /*Ukuran Font*/
+    font-family: sans-serif; /*Jenis Font*/
+    text-transform: uppercase; /*Transfrormasi Font*/
+    font-style: italic; /*Penampilan Font*/
+}
+
+h2 {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center; /*Mengatur Tata Letak Horizontal Text*/
+}
+
+p {
+    font-size: 22px;
+    font-family: sans-serif;
+    line-height: 1.5; /*Jarak Baris*/
+}
+
+li {
+  font-size: 20px;
+  font-family: sans-serif;
+}
