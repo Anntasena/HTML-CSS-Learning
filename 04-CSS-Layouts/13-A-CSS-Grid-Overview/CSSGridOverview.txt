@@ -1,0 +1,160 @@
+(( CSS GRID ))
+
+(APA ITU CSS GRID)
+
+  > CSS Grid adalah seperangkat properti CSS yang dapat digunakan pengembang web untuk membangun tata letak 2 dimensi
+
+  > Ide utama di baliknya CSS Grid adalah sekarang kita dapat membagi elemen kontainer menjadi baris dan kolom (row & columns) yang kemudian dapat kita isi dengan elemen anaknya
+
+  > Di konteks dua dimensi, CSS Grid memungkinkan kita untuk menulis lebih sedikit daripada HTML dan juga lebih mudah untuk membaca CSS
+
+  > CSS Grid tidak ditujukan untuk mengganti Flexbox, sebaliknya CSS Grid dan Flexbox bekerja sama dengan sempurna. Jika kita memerlukan tata letak 1 dimensi gunakan Flexbox, Jika 2 dimensi gunakan CSS Grid
+
+(CSS GRID TERMINOLOGY)
+
+CSS Grid ada 2 komponent inti:
+
+1. Grid Container: sebagai wadah
+2. Grid Items: Sebagai Item yang akan di atur dalam wadah
+
+CSS Grid mempunyai 5 komponen tambahan:
+
+1. Grid Lines
+2. Grid Cell
+3. Grid Track/Row
+4. Grid Track/Columns
+5. Gutters (gap)
+
+((CSS Grid Container properti))
+
+1. display  
+Fungsi: Menentukan Elemen sebagai grid container
+Nilai: "grid", "inline-gird"
+
+contoh:
+.container {
+  display: grid;
+}
+
+2. grid-template-columns
+Fungsi: Menentukan Jumlah dan ukuran kolom dalam grid
+Nilai: Panjang (px, em, fr, %) atau nilai khusus (auto, min-content, max- content)
+
+contoh:
+.container {
+  grid-template-columns: 200px 1fr 2fr;
+}
+
+3. grid-template-rows
+Fungsi: Menentukan jumlah ukuran baris dalam grid
+Nilai: Panjang (px, em, fr, %) atau nilai khusus (auto, min-content, max- content)
+
+contoh:
+.container {
+  gird-template-rows: 100px auto;
+}
+
+4. grid-template-areas
+Fungsi: Menetapkan nama area grid dan mengatur tata letak elemen anak menggunakan area-area tersebut
+Nilai: String berisi nama grid
+
+contoh: 
+.container {
+  grid-template-areas:
+  "header header"
+  "sidebar main"
+  "footer footer";
+}
+
+5. grid-column-gap
+Fungsi: menentukan jarak antara kolom dalam grid
+Nilai: Panjang (px, em, %)
+
+contoh: 
+.container {
+  grid-column-gap: 30px;
+}
+
+6. grid-row-gap
+Fungsi: Menentukan jarak antara baris dalam grid
+Nilai: Panjang (px, em %)
+
+contoh:
+.container {
+  grid-row-gap: 20px;
+}
+
+7. grid-gap / gap
+Fungsi: Kombinasi dari grid-row-gap dan grid-column-gap
+Nilai: Panjang (px, em, %)
+
+contoh: 
+.container {
+  gap: 20px 10px; => 20px jarak baris, 10px jarak kolom
+}
+
+
+8. grid-auto-columns
+Fungsi: Menentukan ukuran kolom otomatis ketika item ditempatkan di luar kolom yang didefinisikan
+Nilai: Panjang (px, em, fr, %) atau nilai khusus (auto, min-content, max-content)
+
+contoh: 
+.container {
+  grid-auto-columns: 100px;
+}
+
+9. grid-auto-rows
+Fungsi: Menentukan ukuran baris otomatis ketika item ditempatkan di luar baris yang didefinisikan
+Nilai: Panjang (px, em, fr, %) atau nilai khusus (auto, min-content, max-content)
+
+contoh: 
+.container {
+  grid-auto-rows: 100px;
+}
+
+10. grid-auto-flow
+Fungsi: Mengontrol bagaimana item ditempatkan secara otomatsi dalam grid
+Nilai: "row", "column", "row dense", "column dense"
+
+contoh:
+.container {
+  grid-auto-flow: row dense;
+}
+
+11. align-Items
+Fungsi: Menyelaraskan item grid di sepanjang sumbu blok (vertikal)
+Nilai: "start", "end", "center", "stretch
+
+contoh:
+.container {
+  align-items: center;
+}
+
+12. justify-items
+Fungsi: Menyelaraskan item grid di sepanjang sumbu inline (horizontal).
+Nilai: "start", "end", "center", "stretch
+
+contoh:
+.container {
+  justify-items: start;
+}
+
+13. Align-content
+Fungsi: Menyelaraskan seluruh konten grid di sepanjang sumbu blok (vertikal)
+Nilai: start, end, center, stretch, space-between, space-around, space-evenly
+
+contoh:
+.container {
+  align-content: space-between;
+}
+
+
+14. justify-content
+Fungsi: Menyelaraskan seluruh konten grid di sepanjang sumbu inline (horizontal)
+Nilai: start, end, center, stretch, space-between, space-around, space-evenly.
+
+contoh:
+.container {
+  justify-content: space-around;
+}
+

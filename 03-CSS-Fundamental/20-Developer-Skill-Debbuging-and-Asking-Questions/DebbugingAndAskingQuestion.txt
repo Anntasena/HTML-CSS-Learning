@@ -1,0 +1,22 @@
+(DEVELOPER SKILL DEBUGGING AND ASKING QUESTION)
+
+> Bug pada dasarnya adalah kesalahan atau kekeliruan
+> Debugging berarti menemukan dan memperbaiki kesalahan dalam kode
+
+(BUG ADA 2 JENIS)
+  > Terlihat
+  > Tidak Terlihat
+
+(CARA MENCARI BUG)
+1. Cari tempat dimana kesalahan pertama kali terjadi, biasanya kekeliruan/kesalahan kode terjadi disana
+
+2. Menggunakan "HTML Validator Tool" untuk melihat apakah HTML anda valid atau tidak.
+  *HTML Validator Tool dapat dicari di google dengan kata kunci HTML Validator
+
+3. Menggunakan "diff checker" untuk membandingkan kode
+  *Diff Checker dapat di cari di google dengan kata kunci diff checker
+
+4. Kita bisa mengeceknya secara manual menggunakan Devtools di browser kita dengan mengklik inspect
+  *Untuk CSS kita bisa melihat kesalahnnya di kolom style
+
+5. Perhatikan tulisan kode, biasanya banyak terjadi kesalahan karna Typo atau kesalahan menulis

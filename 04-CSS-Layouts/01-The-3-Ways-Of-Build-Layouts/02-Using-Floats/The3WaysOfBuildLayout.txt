@@ -1,0 +1,62 @@
+(THE 3 WAYS OF BUILDING LAYOUTS)
+
+Seluruh bagian ini adalah tentang tata letak "Layouts"
+
+(APA MASKUD DARI "LAYOUT")
+
+> Layout dalam desain web sederhananya adalah cara teks, gambar dan semua konten lainnya ditempatkan di atur pada halaman web
+
+> Layout memberikan halaman ini apa yang kita sebut struktur visual dan kemudian ke dalam struktur itu kita dapat menempatkan konten
+
+membangun layout berarti mengatur elemen halaman ke dalam semacam struktur visual, bukan hanya memiliki semua elemen kita, jadi semua konten kita pada dasarnya ditempatkan ssatu demi satu
+
+(TUJUAN LAYOUT)
+
+ Layout adalah tentang bagaimana elemen-elemen didalam sebuah halaman web ditempatkan dan disusun untuk menciptakan tampilan yang menarik dan fungsional. Berikut adalah tujuan utama
+
+  1. Keterbacaan dan Navigasi yang mudah
+  2. Responsif
+  3. Konsistensi
+  4. Visual Hirarchy
+  5. Estetika
+  6. Fungsionalitas
+  7. Aksesibilitas
+
+
+(2 JENIS LAYOUT)
+
+"PAGE LAYOUT VS COMPONENT LAYOUT"
+
+Page Layout:
+
+  1. Definisi: Page Layout mengacu pada struktur keseluruhan dari halaman web
+
+  2. Tujuan: Untuk memberikan kerangka kerja umum bagi halaman web dan memastikan semua elemen utama ditempatkan dengan baik  sehingga halaman web mudah dinavigasi dan digunakan oleh pengguna.
+
+  3. Contoh  Elemen:
+    > Header (logo, navigasi utama)
+    > Footer (informasi kontak, link penting)
+    > Sidebar (menu tambahan, iklan)
+    > Konten Utama (artikel, gambar, vidio)
+
+  4. Skala: Page layour bekerja pad tingkat makro, menentukan bagimana area utama dari halaman web dibagi dan disusun
+
+Component Layout:
+
+  1. Definisi: Merujuk pada teta letak elemen-elemen individual yang lebih kecil dalam page layout
+
+  2. Tujuan: untuk memastikan setiap komponen memiliki tata letak yang efisien dan menarik sehingga berfungsi dengan baik dan mudah digunakan
+
+  3. Contoh Elemn:
+    > Tombol (button)
+    > Formulir (form)
+    > Kartu informasi (card)
+    > Modal Dialog (Pop Up)
+
+  4. Skala: Bekerja pada tingkat mikro
+
+(3 TEKNIK MEMBUAT LAYOUT DENGAN CSS)
+
+1. FLOAT LAYOUTS
+2. FLEXBOX
+3. CSS GRID

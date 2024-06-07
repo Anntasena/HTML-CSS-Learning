@@ -1,0 +1,14 @@
+((APA ITU FLEXBOX))
+
+> Flexbox adalah sekumpulan properti CSS terkait yang dapat digunakan untuk membangun tata letak satu dimensi
+
+> Ide utama di balik flexbox pada dasarnya memungkinkan browser untuk secara otomatis membagi ruang kosong di dalam berberapa kontainer, dengan elemen anaknya
+
+> Flexbox juga membuat sangat mudah untuk secara otomatis menyelaraskan item satu sama lain di dalam kontainer induk tertentu dan itu berlaku baik secara horizontal maupun vertikal
+
+> Flexbox ini memcahkan berberapa masalah yang sangat umum dalam pengembangan CSS seperti pemusatan vertikal dan juga membuat kolom degan tinggi yang sama
+
+> Flexbox sangat cocok untuk menggantikan float jadul dan dengan itu memungkinkan kita untuk menulis lebih sedikit dan juga kode HTML dan CSS yang lebih bersih yang tentu saja untuk memelihara situs web dalam jangka panjang dan untuk menulis lebih sedikit bug
+
+((FLEXBOX TERMINOLOGY))
+
