@@ -1,0 +1,47 @@
+(( SHADOWS RULES ))
+
+( Konsep )
+
+> Skeuomorphic design ==> adalah gaya desain di mana elemen digital diciptakan untuk meniru bentuk, tekstur, dan fungsionalitas dari objek fisik yang mereka wakili
+  -> Ciri-ciri:
+    + Ralism
+    + Metaphors
+    + Familitary
+  -> Sejarah
+    + muncul tahun 1980 - 1990
+    + Puncak populeritas 2000an - 2010an
+
+> Flat design ==> adalah gaya desain antarmuka pengguna (UI) yang menekankan kesederhanaan dan fungsionalitas.
+  -> ciri-ciri:
+    + Sederhana
+    + Warna solid
+    + Tipografi yang jelas
+    + Icon minimalis
+    + Responsif dan flekible
+
+> Flat Design 2.0 ==> (juga dikenal sebagai semi-flat design atau almost-flat design) adalah evolusi dari flat design yang menggabungkan kesederhanaan dan kejelasan flat design dengan beberapa elemen skeuomorphism untuk menambahkan kedalaman dan dimensi.
+  -> ciri-ciri:
+    + Bayangan halus
+    + Gradient lembut
+    + Layering dan Overlaping
+    + Ikon dan grafis minimalis
+    + Responsif dan flekible
+
+( Konsep Banyangan )
+
+> Bayangan menciptakan kedalaman antar muka. Semakin banyak bayangan yang di tambahkan ke elemen, maka emakin jauh bayangan dari antarmuka pengguna elemen itu akan tanpak
+
+> Bayangan juga memberikan kesan ruang tiga dimensi
+
+( Cara menggunakan shadows dengan baik )
+
+> 1. Jangan gunakan shadows jika tidak sesuai dengan website personality
+> 2. Gunakan shadows dalam jumlah yang kecil, jangan gunakan shadows dalam setiap elemen
+> 3. Gunakan shadows yang terang jangan terlalu gelap
+
+( Cara menggunaakn shadows di situasi yang tepat )
+
+> 1. Gunakan shadwos kecil untuk elemen yang lebih kecil yang hanya ingin kita tonjolkan dari halaman
+> 2. Gunakan shadows sedang untuk area yang besar yang ingin kita lebih tonjolkan dari elemen-elemen kecil lainnya
+> 3. Gunakan shadwos besar untuk elemen yang benar-benar ingin diletakan diatas seluruh bagian antarmuka
+> 4. Shadows tidak harus selalu hitam coba gunakan dengan berbagai warna (glows)

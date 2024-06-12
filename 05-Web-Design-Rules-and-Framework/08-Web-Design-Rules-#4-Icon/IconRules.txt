@@ -1,0 +1,41 @@
+(( ICON RULES ))
+
+Icon dapat menambahkan banyak detail dan dapat mengubah tampilan dan nuansa seluruh halaman
+
+( CARA MENGUNAKAN ICON YANG BAIK )
+
+> 1. Gunakan Icon Pack yang bagus
+  - Gunakan toolbox:
+    + phospor Icon
+    + ionicons
+    + icons8
+    + dan masih banyak lagi
+> 2. Gunakan hanya 1 icon pack, jangan mencampur dengan icon pack yang berbeda
+
+> 3. Gunaakn SVG icon atau icon Fonts. jangan gunaakn bitmap images format (.jpg and .png)
+  - SVG images dan icon font adalah vector-based
+  - Vector-based dapat menskalanya tanpa batas menjadi pixel
+> 4. Icon harus di atus sesuai kepribadian situs website kita. Itu bisa dilihat dari:
+  - Roundess
+  - Weight
+  - Filled/Outlined
+
+( KAPAN KITA BISA MENGGUNAKAN ICON DALAM DESAIN KITA )
+
+> 1. Gunakan icon untuk membarikan bantuan visual pada teks
+> 2. Gunakan icon jadi blok fitur
+  - Featur block digunakan untuk mendeskripsikan fitur-fitur produk atau layanan tertentu
+  - Jika icon dipilih dengan baik, maka pengguna bahkan pengguna tidak perlu membaca teksnya
+> 3. Gunakan icon bersama dengan tindakan. contohnya:
+  - button
+  - menu
+  - dan lain-lain
+> 4. Gunakan icon sebagain poin-poin
+
+( BAGAIMANA MENGGUNAKAN ICON DENGAN BAIK )
+
+> 1. Untuk membuat icon tetap natural, gunakan warna yang sama dengan warna teks
+> 2. Jika membuatnya lebih banyak perhatian gunakan warna yang berbeda
+> 3. Jangan gunakan icon yang tidak masuk akal, gunakan yang sesuai dengan teks atau tindakan yang ingin anda sampaikan
+> 4. Jangan membuat icon lebih besar daripada yang dirancang untuknya, jika diperlukan lampirkan kedalam shape
+> 5. Icon yang di desain untuk ukuran besar, biasanya lebih banyak detail dengan garis yang tipis

@@ -1,0 +1,71 @@
+(( COMPONENT AND LAYOUT RULES ))
+
+( Dari Elements ke Webpage )
+
+Ketika kita ingin memulai situs web baru, dan mulai dengan halaman kosong, dan yang kita miliki hanyalah konten, kita mungkin akan merasa tersesat. Tetapi kita tidak perlu merasa tersesat, tenang saja kita tidak perlu merasa sesast, karna disinilah pola-pola (pattern) yang sudah stabil berperan. Jadi pada dasarnya kita membangun situs web selalu dengan cara yang sama
+
+Kita bisa memulai menbangun website:
+
+> 1. Mulai dari elemnent kecil
+      - Paragraf
+      - Images
+      - Button
+> 2. Kemudian susun element-element kedalam component umum
+      - Feature
+      - Card
+      - Pricing Table
+      - component lainnya
+> 3. Lalu kita mengambil semua component yang kita rancang, dan menggunaaknnya untuk membangun layout
+> 4. Gabungkan berberapa layout dan atur sesuai panduan untuk menjadi webpage
+
+KESIMPULAN
+----------
+element-element =(diorganisasikan)=> component =(diorganisasikan)=> layout =(digabungkan)=> webpage
+
+( Gallery index: Elements, Section, Patterns )
+
+> A. Elements:
+    - text
+    - buttons
+    - images
+    - input Elements
+    - tags
+    - dan lain-lain
+
+> B. Components:
+    - breadcrumbs
+    - pagination
+    - alert and status bars
+    - statistic
+    - gallery
+    - feature box
+    - perview and profile cards
+    - accordion
+    - tabs
+    - carousel
+    - customer testimonials
+    - customer logos
+    - feature in logos
+    - steps
+    - forms
+    - tables
+    - pricing tables
+    - modal windows
+    - dan masih banyak lagi
+
+> C. Section Components:
+    - navigation
+    - hero Section
+    - footer
+    - call-to-action Section
+    - feature row
+
+> D. Layout Patterns:
+    - row of boxes cards
+    - grid of boxes cards
+    - z pattern
+    - f pattern
+    - single column
+    - sidebar
+    - multi column / megazine
+    - asymetry / experimental

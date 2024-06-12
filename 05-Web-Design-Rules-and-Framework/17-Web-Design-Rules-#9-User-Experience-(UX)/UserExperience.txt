@@ -1,0 +1,56 @@
+(( USER EXPERIENCE "UX" ))
+
+( Apa itu user experience (UX) )
+
+Desain bukan hanya seperti apa yang terlihat dan terasa, tetapi desain adalah cara kerjanya
+- Steve Jobs -
+
+User interface (UI) 
+adalah persentasi visual dari sebuah product. UI meliputi
+  - Layout
+  - "Personality"
+  - Tyhpgraphy
+  - Colors
+  - Icons
+  - etc
+
+User experience (UX)
+adalah pengalaman pengguna. UX meliputi:
+  - Apakah aplikasi terasa logis dan dipikirkan dengan baik
+  - Navigation aplikasi ini bekerja secara intuitif
+  - Apakah pengguna benar-benar mencapai tujuannya
+
+( UI and UX design )
+
+> UI Design membuat interface menjadi lebih indah
+> UX Desain membuat interface berguna dan fungsional 
+
+UX desain tidak bisa berdiri tanpa UI desain mereka saling melengkapi
+
+( Tujuan UX Design )
+
+> Web atau App di bangun karna ada alasan: user mengunjungi karna punya tujuan, dan perusahaan yang membuatnya juga punya tujuan
+> UX desain digunakan untuk memenuhi tujuan dari user dan business
+
+( Rules UX untuk kegunaaan )
+
+> Tidak boleh menggunakan tata letak yang terlalu rumit
+> Gunakan pola yang sudah dikenal, alih-alih menjadi yang orisinil
+> Keakraban dengan layout jauh lebih penting dari pada menjadi original
+> Selalu buat call to action (CTA) yang berupa tombol menjadi elemen paling menonjol pada layar
+> Gunakan teks biru dan garis bawah hanya untuk links
+> Jika ingin menggunakan animasi pastikan animasi tersebut memiliki tujuan dan cepat: antara 200ms - 500ms.
+  *Jangan menambahkan animasi hanya karna kita bisa karna itu membuat pengguna bingung dan terlihat tidak profesional. dan pastikan animasi cepat jika tidak pengguna akan berpikir bahwa interface itu lambat
+> Ketika mendesain formulir, formulir itu harus sangat mudah dipindai
+> Kita harus menawarkan umpan balik yang baik untuk semua tindakan: form errors, form success, etc
+> Law Of Locality => Jika kita mempunyai sebuah button kita harus menempatkan tombol itu dimana pun yang akan benar-benar menciptakan efek
+ 
+( Rules UX untuk website content )
+
+> Menulis judul yang sangat deskriptif di halaman utama kita, yang berfokus pada kata kunci yang paling menggambarkan apa yang sebenarnya dilakukan bisnis kita
+  *tulis tentang apa bisnis itu dalam 1 kalimat, jangan gunakan kalimat yang kabur atau fancy
+> Pastikan hanya masukan informasi yang relevan dan juga menyajikannya dengan cara yang efisien, jadi hilangkan semua hal yang tidak diperlukan
+> Gunakan kata kata yang sederhana untuk teks yang sebenarnya
+  *hindari jargon teknis yang mungkin relevan dengan industry khusus kita, tetapi mungkin tidak diketahui pengguna kita
+  *Jangan jadi orang narsis, yang berpikir bahwa melakukan hal ini membuat mereka terdengan pintar atau berpengetahuan luas dibidangnya, tetapi yang sebenarnya adalah membingungkan pengguna
+> Jika anda memiliki teks yang panjang, maka pastikan untuk memecah dinding teks tersebut menggunakan sub-judul, gambar, kutiap dan poin-poin

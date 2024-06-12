@@ -1,0 +1,48 @@
+(( VISUAL HIERARCHY ))
+
+( Apa itu visual hirarchy? )
+
+> Pada dasarnya, visual hierarchy adalah tentang menetapkan elemen mana dari desain tertentu yang paling penting
+> Visual hierarchy itu tentang menarik perhatian ke elemen-elemen yang paling penting
+> Visual hierarchy juga tentang menentukan jalur bagi pengguna kita untuk memandu mereka melalui halaman dengan cara yang intuitif dan otomatis
+> Untuk menetapkan visual hierarchy yang bermakna, kita harus menggunaakn kombinasi:
+  - posisi
+  - ukuran
+  - warna 
+  - spasi
+  - border
+  - shadows
+
+( Fundamental Visual Hierarchy )
+
+> Memposisikan elemen penting lebih dekat kebagian atas halaman, karana disitulah mereka akan mendapatkan banyak perhatian
+> Gambar menarik banyak perhatian, dan oleh karna itu, kita perlu menggunakannya dengan hati hati
+> Menggunakan whitespace secara strategis
+
+( Visual hierarchy untuk teks )
+
+> Untuk teks elemen, gunakan kombinasi ukuran huruf, berat huruf, warna dan whitespace untuk memberikan tingkat kepentingan yang berbeda
+> Elemen-elemen yang harus ditekankan:
+  - title
+  - sub-title
+  - links
+  - buttons
+  - data point
+  - icons
+
+( Visual hierarchy untuk komponen )
+
+> Penempatan visual hierarchy diantara komponen adalah dengan kombinasi
+  - background colors
+  - shadwos
+  - border
+> Untuk menekankan antar kompenen A dengan B hanya dengan mengurangi penekankan komponen B
+> Kompenen yang harus ditekankan
+  - testimonial
+  - call to action section
+  - highlight section
+  - preview cards
+  - form
+  - pricing tables  
+  - important row / columns in tables
+  - etc

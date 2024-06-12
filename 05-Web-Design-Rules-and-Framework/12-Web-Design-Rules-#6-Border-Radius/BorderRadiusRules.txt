@@ -1,0 +1,16 @@
+(( BORDER RADIUS RULES ))
+
+( Penggunaan border radius yang baik )
+
+> 1. Border radius pada dasarnya untuk meningkatkan keceriaan dan kesenangan desain dengan membuatnya pada saat yang sama tidak terlalu serius
+  - Less border radius ====== More border radius 
+  - Serius / elegant ====== Playful / fun
+
+> 2. Jenis huruf sudah memiliki kebulatan tertentu, sehingga kita bisa membuatnya cocok dengan kebulatan border radius
+
+> 3. Gunakan border radus pada:
+      - button
+      - images
+      - around icon
+      - standout section
+      - other element

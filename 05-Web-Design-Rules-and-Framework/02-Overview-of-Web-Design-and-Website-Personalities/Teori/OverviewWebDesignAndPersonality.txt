@@ -1,0 +1,51 @@
+((OVERVIEW WEBDESIGN AND PERSONALITY))
+
+( WEB DESIGN VS WEB DEVELOPER )
+
+> Web Design: Web design berkaitan dengan aspek visual dan pengalaman pengguna dari sebuah situs web. Web designer bertanggung jawab untuk membuat tampilan dan nuansa situs web, termasuk tata letak, warna, tipografi, dan elemen visual lainnya.
+
+> Web Developer: Web development berfokus pada pengkodean dan pembangunan situs web berdasarkan desain yang telah dibuat oleh web designer.
+
+( Perbedaan Utama )
+
+> Fokus Kerja: Web designer lebih fokus pada aspek visual dan pengalaman pengguna, sementara web developer lebih fokus pada pengkodean dan fungsionalitas.
+
+> Skillset: Web designer biasanya ahli dalam alat desain grafis seperti Adobe XD, Sketch, atau Figma, sedangkan web developer ahli dalam bahasa pemrograman dan teknologi web.
+
+> Output: Web designer menghasilkan desain dan prototipe, sedangkan web developer menghasilkan kode yang dapat dieksekusi untuk menjalankan situs web.
+
+( Mengapa kita harus mengaggap desain sebagai sesuatu yang serius? )
+
+> 1. Desain yang baik menciptakan kesan yang baik terhadap merek atau produk yang ada dibalik situs web
+> 2. Desain yang baik membuat pengguan langsung mempercayai merek tersebut
+> 3. Desain yang baikmeningkatkan nilai yang dirasakan dari merek atau produk yang dikunjungi pengguna
+> 4. Desain yang baik membarikan pengguna apa yang sebenarnya mereka cari ketika mereka memutuskan untuk datang ke situs
+
+( Bahan bahan web desain )
+
+> 1. Typography
+> 2. Colors
+> 3. Images / Ilustration
+> 4. Icons
+> 5. Shadows
+> 6. Border Radius
+> 7. Whitespace
+> 8. Visual Hierarcy
+> 9. User Experience
+> 10. Component Layout
+
+( Website Personality )
+
+> 1. Serious/Elegant : digunakan untuk menyampaikan kemewahan dan keanggunan, biasanya menggunakan typograpy serif, tipe warna emas atau pastel dan gambar berkualitas tinggi
+
+> 2. Minimalist/Simple : Fokus pada konten teks penting, menggunakan teks hitam berukuran kecil atau sedang, sering menggunakan berberapa garis dan sedikit gambar dan icon
+
+> 3. Plain/Neutral : Desain tidak mengganggu dengan mengunakan tipografi netral dan kecil serta tata letak yang sangat terstruktur. tema ini sering dipakai oleh perusahaan besar
+
+> 4. Bold/Confident : Desain menggunakan tipografi yang besar dan penuh bersama dengan blok warna cerah dan besar
+
+> 5. Calm/Peaceful : Digunakan biasanya oleh product atau perusahaan yang mempunyai kalau mereka peduli, biasanya menggunakan warna-warna pastel, dan juga tipografi soft-serif dan gambar yang sesuai
+
+> 6. Starup/Upbeat : Banyak digunakan oleh perusahaan starup, menggunakan tipografi sans-serif yang modern teks dan latar belakang abu-abu terang bersama elemen bulat
+
+> 7. Playful/fun: Desain penuh warna bulat dan dibuat dengan menggunakan element kreatif

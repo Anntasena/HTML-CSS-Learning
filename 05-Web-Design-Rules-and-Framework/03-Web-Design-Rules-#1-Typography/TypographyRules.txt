@@ -1,0 +1,52 @@
+(( TYPGRAPHY RULES ))
+
+Tipografi => seni dan teknik mengatur huruf untuk membuat tulisan tidak hanya dapat dibaca, tetapi juga menarik secara visual. Dalam konteks desain web, tipografi sangat penting karena mempengaruhi bagaimana pengguna merasakan dan berinteraksi dengan konten di halaman web.
+
+( Serif VS Sans-Serif )
+
+> Serif => huruf mempunyai sirip kecil
+  - Bisa digunakan untuk membuat sesuatu yang tradisional atau klasik
+  - Membuat desain menyampaikan kepercayaan bagi pengguna
+  - Bagus untuk teks yang panjang
+
+> Sans-Serif => huruf tidak mempunyai sirip
+  - Terlihat bersih dan sederhana
+  - Memberikan tampilan dan nuansa yang modern
+  - Mudah digunakan untuk pemula
+
+( Bagaimana cara menggunakan huruf / font yang bagus? )
+
+> 1. Gunakan hanya yang bagus dan populer, bermain aman!
+  > FONT Sans-serif
+    - Inter
+    - Open Sans
+    - Roboto
+    - Montserrat
+    - Work sans
+    - Lato 
+  > FONT Serif
+    - Meriweather
+    - Aleo
+    - Playfair Display
+    - Cormorant
+    - Cardo
+    - Lora
+> 2. Tidak apa-apa hanya menggunakan satu jenis huruf pada satu halaman, jika ingin mecoba coba batasi font anda hanya 2 saja
+> 3. Pilih jenis huruf yang tepat sesuai dengan personality website
+
+( Bagaiman cara menentukan ukuran dan tebal huruf? )
+
+> 1. Ketika memilih ukuran huruf, kita harus membatasi pilihan, untuk melakukan ini kita bisa menggunakan alat type scale atau kisaran ukuran huruf lain yang sudah ditentukan sebelumnya
+> 2. Gunakan ukuran font antara 16px -32px untuk ukuran normal
+> 3. Untuk teks panjang, gunakan ukuran 20px atau lebih besar
+> 4. Untuk headline, kita bisa menggunakan ukuran huruf yang sangat besar bahkan lebih dari 50px, dan sangat tebal lebih dari 600
+> 5. untuk semua teks, jangan menggunakan font weight dibawah 400. karna akan menjadi sangat tipis dan sulit dibaca
+
+( Bagaiman meciptakan pengalaman membaca yang baik? )
+
+> 1. Gunakan kurang dari 75 karakter perbaris
+> 2. Untuk teks ukuran normal, cobalah untuk menggunakan line-height antara 1.5 dan 2. Untuk teks besar gunakan dibawah 1.5 (intinya semakin kecil dan panjang teks semakin besar line-height nya)
+> 3. Kurangi jarak huruf jika terlihat tidak natural
+> 4. Gunakan huruf besar untuk semua judul pendek
+> 5. Biasanya di web, kita tidak meratakan teks
+> 6. Tidak boleh memusatkan teks, kecuali kita berbicara tentang blok teks yang sangat kecil

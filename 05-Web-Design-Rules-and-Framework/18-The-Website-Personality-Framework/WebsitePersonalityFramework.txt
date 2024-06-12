@@ -1,0 +1,15 @@
+(( WEBSITE PERSONALITY FRAMEWORK ))
+
+( 7 PERSONALITY )
+ 
+> serious / elegant
+> minimalis / simple
+> plain / neutral
+> bold / confident
+> calm / peaceful
+> startup / upbeat
+> playful / fun
+
+*Personality bisa membarikan vibe kepada user
+*Personality juga membuat pengembang menjadi lebih mudah saat mengembangkan
+*Kita bisa menerapkan ciri-ciri peronality ini untuk setiap bahan desain

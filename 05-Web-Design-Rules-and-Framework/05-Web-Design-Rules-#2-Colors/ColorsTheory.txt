@@ -1,0 +1,50 @@
+(( COLORS THEORY ))
+
+( Cara menentukan warna yang tepat )
+
+> 1. Buatlah warna utama yang cocok dan tepat sesuai dengan kepribadian situs web kita, Ingat warna menyampaikan makna!!!
+    - MERAH = keberanian, kekuatan, gairah, dan kegembiraan
+    - ORANGE = mirip dengan merah tetapi kurang agresif, kebahagiaan, keceriaan, kreativitas
+    - KUNING = kegembiraan, kecerahan, kecerdasan
+    - HIJAU = alam, pertumbuhan, kesehatan, harmoni
+    - BIRU = kedamaian, kepercayaan, profesionalisme
+    - UNGU = kekayaan, kebijaksanaan, sihir
+    - PINK = romantis, perhatian, kasih sayang
+    - COKLAT = alam, kenyamanan, daya tahan
+    - HITAM = kekuatan, keanggunan, minimalis, kesedihan, duka cita
+
+> 2. Gunakan color tone yang bagus, jangan gunakan tone acak di CSS!!!
+    - Gunakan Toolbox:
+      + Open Colors
+      + Tailwind CSS
+      + Flat UI Color 2
+
+> 3. Gunakan sekurang kurangnya 2 jenis warna dalam palet warna: warna utama dan warna abu-abu
+
+> 4. Seiring bertambahnya pengalaman, kita bisa menambahkan lebih banyak warna: warna kedua dan warna aksen
+    - Gunakan toolbox:
+      + palleton.com
+      + coolors
+
+> 5. Untuk perbedaan, kita memerlukan berberapa versi yang lebih terang dan gelap dari ketiga warna ini
+    - Yang lebih terang disebut "Tints"
+    - Yang lebih gelap disebut "Shades"
+    - Gunakan toolbox:
+      + Tint and Shade Generator
+
+( KAPAN DAN BAGAIMANA MENGGUNAKAN WARNA DALAM DESAIN )
+
+> 1. Warna utama digunakan untuk menarik perhatian, elemen terpenting dalam sebuah halaman
+
+> 2. Gunakan warna untuk menambahkan berberaoa aksen yang menarik atau juga untuk membuat seluruh komponen menonjol
+
+> 3. Gunakan warna secara strategis dalam gambar dan ilustrasi
+
+> 4. Dalam latar belakang berwarna gelap, kita bisa menggunaakan warna latar yang lebih terang untuk teks
+
+> 5. Teks tidak boleh sepenuhnya. 
+
+> 6. Jangan membuat warna teks terlalu terang. Gunakan toolbox untuk mengeceknya
+    - kontras ration:
+      + 4.5:1 untuk normal teks
+      + 3:1 untuk teks besar

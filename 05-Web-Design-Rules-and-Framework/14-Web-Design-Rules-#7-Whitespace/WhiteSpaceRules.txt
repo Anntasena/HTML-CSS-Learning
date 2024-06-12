@@ -1,0 +1,29 @@
+(( WHITE SPACE RULES ))
+
+White space sacara visual memang tidak terlihat tetapi ini adalah cara termudah dan tercepat untuk meningkatkan desain kita secara drastis
+
+( Mengapa whitespace )
+
+Whitespace pada dasarnya hanyalah ruang diantara elemen-elemen
+
+> Menggunakan jumlah whitespace yang tepat dapat membuat desain kita menjadi:
+  - bersih
+  - modern
+  - halus
+  - mudah untuk dipahami pengguna
+> Whitespace mengkomunikasikan bagaiman informasi yang berbeda dalam tataletak kita saling terkait satu sama lain
+> Whitespace menciptakan hubungan yang tidak terlihat di antara elemen-elemen tata letak yang secara otomatis  memudahkan pangguna untuk menavigasi tata letak itu sepenuhnaya, secara intuitif
+
+( Dimana kita menggunakan whitespace )
+
+> 1. kita harus banyak menggunakan whitespace diantara section
+> 2. Gunakan whitespace diantara kelompok elemen
+> 3. Gunakan whitespace diantara elemen
+> 4. Di dalam grup elemen, gunakan whitespace dari pada garis
+
+( Seberapa banyak kita menggunakan whitespace )
+
+> 1. Elemen-elemen yang seharusnya saling berkekatan dalam antar muka kita. jadi kurangi jarak di antara mereka karna itu akan membedakan mereka dari elemen atau kelompok elemen lain disekitarnya. ini disebut the law of proximity (hukum kedekatan)
+> 2. Mulailah dengan banyak sekali whitespace setelah itu baru disesuaikan
+> 3. Mencoba mencocokan semua pilihan desain lainnya dalam whitespace
+> 4. Coba ikuti hard rule,

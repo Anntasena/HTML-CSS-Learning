@@ -1,0 +1,40 @@
+(( IMAGES AND ILLUSTRATION RULES ))
+
+( GUNAKAN GAMBAR BAGUS )
+
+> 1. Gunaakn tipe gambar yang berberda:
+    - Foto produk
+    - storytelling Foto
+    - Illustrasi
+    - Pola
+
+> 2. Gunakan gambar untuk mendukung pesan dan cerita dari web ktia, jadi gunakan gambar yang relevan
+
+> 3. Gunakan gambar original. Jika tidak memungkinkan gunakan stok foto yang berkualitas dari internet tetapi jangan gunakan foto yang mainstream
+    - Gunakan toolbox:
+      + Unsplash
+      + Pexels
+      + Drawkit
+      + unDraw
+
+> 4. Penggunaan gambar yang bagus menunjukan untuk memicu emosi pengguna
+
+> 5. Jika di perlukan, crop gambar agar sesuai degan pesan kita 
+
+> 6. Coba gabungkan foto, ilustrasi, dan pola untuk menciptakan detail yang menarik dan efek menarik
+
+( CARA MENANGANI GAMBAR PADA TEKS )
+
+> 1. Metode #1: menggelapkan atau mencerahkan gambar
+> 2. Metode #2: memposisikan teks dalam area gambar netral
+> 3. Methode #3: menaruh teks dalam kotak
+
+( DETAIL TEKNIKAL PENGGUNAAN GAMBAR )
+
+> 1. Kita perlu memperhitungkan layar resolusi tinggi, buatlah dimensi gambar menjadi 2x lebih besar dari ukuran layar
+    - Scale Factor = pixel aktual yang terdapat pada layar dibagi dengan piksel yang direpresentasikan paada layar untuk elemen apapun
+    - Pada layar beresolusi tinggi, faktor skala ini 2x bahkan 3x 
+> 2. Compress gambar ke ukuran yang lebih rendah untuk kinerja yang lebih baik
+    - Gunakan toolbox:
+      + Squoosh
+> 3. Jika menggunakan gambar berdampingan, kita perlu memastikan bahwa gambar-gambar tersebut memiliki dimensi yang sama persis
