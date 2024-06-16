@@ -1,0 +1,73 @@
+(( COMPONENT AND LAYOUT PATTERN RULES ))
+
+(( Section Component ))
+-----------------------
+( Navigation )
+
+> Navigation biasanya terletak di atas halaman
+> Di dalam navigation bar biasanya akan ada sub menu yang ketika cursor diarahkan atau diklik maka akan muncul
+> Terkadang navigation tidak hanya satu bisa dua bahkan lebih
+
+( Hero Section )
+
+> Hero section pada dasarnya adalah bagian pertama dari halaman, yang berisi seperti deskripsi situs dan judul utama dan sering kali memeiliki berberapa tombol dan berberapa gambar
+
+> 3 big trend hero sectioin
+  + 1. teks pada satu sisi dan gambar pada sisi lainnya
+  + 2. background image dengan berberapa teks di atasnya
+  + 3. memiliki berberapa teks, dan kemudian dibawahnya  berberapa gambar
+
+( Footer )
+
+> Footer sebenarnya bisa di desain lebih fleksible, tetapi saat ini desain footer mempunyai standart untuk menyertakan peta situs lengkap web kita
+> Sangat bisa jika kita mencantumkan social icon (sosial media) di footer
+> Footer juga bisa di tambah form untuk memberikan news terbaru
+
+( Call-To-Action Section )
+
+> CTA section biasanya terletak diakhir halaman
+
+( Feature Row )
+
+> Feature row adalah baris fitur bagian kecil dari halaman
+
+(( Patterns ))
+--------------
+
+( Row of Boxes / Cards )
+
+> Boxes atau card yang dipakai berulang kali menjadi pola segaris
+
+( Grid of Boxes / Cards )
+
+> Boxes atau card yang dipakai berulang kali menjadi pola 2 dimensi
+> Biasa dipakai oleh online shop
+
+(Aside: Nesting Patterns in Component)
+
+> Kombinasi antara 2 box dan grid / row Boxes
+
+( Z pattern )
+
+> Pattern zigzag
+
+( F pattern )
+
+> Pattern / pola benbentuk F/E
+
+( Single Column Pattern )
+
+> Pola ini paling sering digunakan  pada situs responsif atau mobile phone
+> Pola ini juga sangat sederhana
+
+( Sidebar )
+
+> Sidebar biasa digunakan untuk blog atau sebagai opsi daftar isi atau ringkasan
+
+( Multi-Column / Megazine )
+
+> Pola ini pada dasarnya mengkombinasikan kolom-kolom yang berbeda kedalam berbeda jenis
+
+( Asymetry / Experimental )
+
+> Pola ini biasanya sangat menonjol dan penuh kreatifitas
