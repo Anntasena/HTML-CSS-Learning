@@ -1,0 +1,35 @@
+(( Story ))
+
+> Pekerjaan pertama
+> Saya di hire untuk mendesain dan membuat sebuah website untuk perusahaan fiksi bernama "Omnifood"
+> Omnifood adalah startup yang menggunakan AI untuk membuat dan mengirimkan renana makanan sehat yang bisa di custom
+> Mereka menyerakan semua konten dalam website kepada saya
+
+--------------------------
+Step 1. Define The Project
+--------------------------
+
+> Definisikan untuk siapa website itu
+  => Untuk Client 
+
+> Definisikan untuk apa website itu
+  => Tujuan bisnis: Menjual makanan langganan bulanan
+  => Tujuan user: Makan enak dan sehat dengan mudah tanpa menghabiskan banyak waktu dan uang
+
+> Definisikan siapa target audiensnya
+  => Orang sibuk yang menyukai teknologi, mereka tertarik dengan diet sehat, dan mempunyai gaji yang oke  
+
+
+------------------------
+Step 2. Plan The Project
+------------------------
+
+> Merencanakan sitemap
+  => Dalam kasus ini sitemap tidak diperlukan, karna hanya membuat 1 halaman pemasaran
+
+> Mendefinisikan website personality
+  => Client kita adalah perusahaan teknologi, tetapi mereka memiliki fokus kepada usernya
+  => Oleh karna itu personality startup/upbeat akan cocok
+  => Karna perusahaan ini peduli dengan usernya maka kita bisa menambahkan berberapa elemen calm/peaceful personality
+
+> Merencanakan page section

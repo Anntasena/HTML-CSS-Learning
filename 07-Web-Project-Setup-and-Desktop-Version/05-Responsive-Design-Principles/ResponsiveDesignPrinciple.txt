@@ -1,0 +1,42 @@
+(( RESPONSIVE DESIGN PRINCIPLE ))
+
+( Apa itu responsive desain? )
+
+> Teknik yang dapat digunakan untuk membuat halaman website menyesuaikan layout dan visual style dengan ukuran layar apapun yang memungkinkan
+> Dalam praktiknya, ini berarti bahwa responsive design membuat website dapat digunakan disemua perangkat
+> Responsive design bukanlah teknologi yang terpisah, ini hanyalah teknik yang digunakan dalam CSS
+
+( Responsive design ingredients )
+
+> 1. Fluid layout
+    + memungkinkan halaman website untuk beradaptasi dengan lebar atau tinggi viewport
+    + kita dapat dengan mudah membuat fluid layout dengan menggunakan:
+      - % (presentase)
+      - vh (viewport height)
+      - vw (viewport width)
+    + selalu gunakan "max-width" property bukan "widht" 
+> 2. Responsive unit
+    + gunakan unit "rem" dari pada "px" untuk sebagian besar panjang
+    + menggunakn rem akan membuatnya sangat mudah untuk menskala seluruh halaman secara otomatis
+    + Trick: setting 1rem menjadi 10px untuk mempermudah kalkulasi
+> 3. Flexible images
+    + secara default images berbeda dengan konten teks karna mereka tidak bersekala
+    + untuk membuat flexible images kita bisa mendefinisikan dalam presentase "%" bukan "px" dan gunakan "max-widht"
+> 4. Media queries
+    + media queries adalah yang menyatukan semua ingredients dan menghidupkan responsive design
+    + tanpa media queries responsive design tidak akan berfungsi sama sekali
+    + media queries memungkinkan kita untuk mengubah gaya pada viewport widht yang disebut "breakpoint"
+
+( Desktop first VS Mobile-first development )
+
+ada 2 strategi yang berlawanan dalam membangun situs website responsive dengan css
+
+> 1. Deskstop-first 
+  + memulai dengan layar besar
+  + nanti, saat ingin membuatnya responsive, kita cukup menambahkannya media queries untuk mengecilkan desain agar sesaui dengan layar
+
+> 2. Mobile-first
+  + memulai dengan layar kecil
+  + menggunakan media queries untuk memperbesar desain agar sesaui dengan layar
+  + strategi dibalik Mobile-first adalah bahwa kita sebagai developer, benar benar memikirkan mobile experience
+  + dengan kata lain, memaksa kita untuk mengurangi website dan app ke hal-hal yang sangat penting, dan meninggalkan yang sepenuhnya tidak diperlukan

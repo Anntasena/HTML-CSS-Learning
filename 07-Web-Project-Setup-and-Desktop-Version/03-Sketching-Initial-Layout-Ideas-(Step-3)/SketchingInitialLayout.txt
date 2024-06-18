@@ -1,0 +1,13 @@
+(( SKETCHING INITIAL LAYOUT ))
+
+( First Ideas and Sketch )
+
+> Logo + Navigation
+> Hero
+> Feature in
+> How its works
+> Meals (and list of diets)
+> Testimonials + gallery
+> Pricing + Feature
+> CTA
+> Footer

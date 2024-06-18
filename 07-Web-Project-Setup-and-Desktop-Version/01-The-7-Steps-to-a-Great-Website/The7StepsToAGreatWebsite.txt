@@ -1,0 +1,107 @@
+(( 7 STEPS TO BUILD A GREAT WEBSITE ))
+
+Mendesain dan membangun website tidak hanya menulis berberapa kode, pada kenyataannya lebih dari itu. Sebenarnya ini adalah keseluruhan proses pengembangan yang membutuhkan banyak pemikiran dan perancangan cermat, dan itu bahkan sebelum kita menulis satu baris kode
+
+( Proses dibalik pembuatan website )
+
+> 1. Define( mendefinisikan )
+> 2. Plan( merencanakan )
+> 3. Sketch( mensketsa tata letak )
+> 4. Design and Build( mendisain dan membangun  )
+> 5. Test and Optimize( menguji dan mengoptimalkan )
+> 6. Launch( meluncurkan )
+> 7. Maintain and Update( dipelihara dan di perbaharui)
+
+>>> 1. DEFINE THE PROJECT <<<
+-----------------------------
+> 1. Mendefinisikan untuk siapa web itu Sebenarnya
+    + Yourself?
+    + Client?
+    + Agency?
+    + Business?
+> 2. Mendefinisikan untuk apa web itu sebenarnya, Tujuan utama website
+    + Memberi informasi
+    + Menjual produk
+    + menghibur pengguna
+    (Contoh:)
+    ---------------------------------------------------------------------------------
+    | Tujuan bisnis : Menjual makanan anjing premium                                |
+    | Tujuan User : Mencari makanan high-quality untuk anjing dengan harga yang oke |
+    ---------------------------------------------------------------------------------
+> 3. Menentukan target audiens
+    + Biasanya ini ditentukan oleh client
+    (Contoh:)
+    ------------------------------------------------------------------------------------------------------------------
+    | Wanita yang berusia 20-40 tahun, tinggal di eropa, berpenghasilan 2000 euro sebulan dan hasrat memiliki anjing |
+    ------------------------------------------------------------------------------------------------------------------
+
+>>> 2. PLAN THE PROJECT <<<
+---------------------------
+
+Plan harus didasari pada sasaran bisnis, sasaran pengguna, dan target audiens
+
+> 1. Merencanakan dan mengumpulkan konten situs website
+    + Copy (Teks)
+    + Images
+    + Videos
+    + etc
+> 2. Konten biasanya di sediakan oleh client, tetapi kita bisa mereka untuk membangun, untuk memproduksi dan menemukan konten mereka
+    + Jika diharuskan mencari konten, jangan lakukan ini secara gratis untuk client kita
+> 3. Untuk website yang besar, maka rencanakan membuat sitemap
+    + Merencanakan halaman apa saja yang dibutuhkan situs
+    + Bagaimana antar halaman saling berhubungan satu sama lain dengan semua konten yang tersedia
+    + Bedasarkan konten, kita dapat merencanakan bagain yang harus dimiliki setiap halaman untuk menyampaikan pesan kepada user
+> 4. Menentukan kepribadian website
+
+>>> 3. SKETCH LAYOUT AND COMPONENT IDEAS <<<
+--------------------------------------------
+
+> 1. Memikirkan komponen dan bereberapa pola tata letak yang kita perlukan untuk menyampaikan pesan konten kita
+> 2. Buatlah berberapa sketsa dengan pena dan kertas atau perangkat lunak desain seperti "Figma"
+> 3. Ini adalah proses yang berulang
+> 4. kita tidak perlu mensketsa segalanya, dan tidak perlu membuatnya terlihat sempurna
+
+>>> 4. DESIGN AND BUILD WEBSITE <<<
+-----------------------------------
+
+> 1. Ambil rencana, konten dan sketsa yang kita lakukan sebelumnya, dan menggunakannya untuk merancang dan membangun proyek HTML dan CSS
+> 2. Memilih dan menerapkan visual style untuk desain kita
+> 3. Visual style harus didasari pada kepribadian website kita dan design guideline
+> 4. Gunakan merek client bilamana memeungkinkan
+    + Warna
+    + Typograpy
+    + Icon
+    + etc
+
+>>> 5. TEST AND OPTIMIZE <<<
+----------------------------
+
+> 1. Memastikan bahwa website benar benar berfungsi dengan baik disemua browser
+    + Chrome
+    + FireFox
+    + Safari
+    + Microsoft Edge
+> 2. Menguji desain responsive, uji pada perangkat selular sebenarnya bukan hanya di DevTools
+> 3. Mengoptimalkan semua gambar yang kita gunakan di website
+    + Memberikan ukuran dimensi yang tepat dalam pixel
+    + Mengkompresnya agar tidak memaksa pengguna untuk mengunduh gambar sangat besar
+> 4. Memperbaiki berberapa masalah aksesibilitas sederhana
+    + Kontras warna
+> 5. Menjalanankan tes kinerja 
+> 6. Mengoptimalkan mesin pencari = seach engine optimization (SEO)
+
+>>> 5. LAUNCH THE MASTERPIECE <<<
+---------------------------------
+
+> 1. Mengungah situs website ke platform hosting
+  > Free hosting platform
+    + Netify
+> 2. Membeli nama domain yang bagus
+
+>>> 6. MAINTAIN AND KEEP UPDATING WEBSITE <<<
+---------------------------------------------
+
+> 1. Launching bukanlah akhir
+> 2. Update konten secara berkala
+> 3. Install analytics software
+> 4. Aspek yang harus di update dari website adalah blog
