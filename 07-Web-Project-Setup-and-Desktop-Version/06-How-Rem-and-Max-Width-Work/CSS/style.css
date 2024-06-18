@@ -1,0 +1,72 @@
+/* 
+
+<--- 01 TYPOGRAPHY SYSTEM --->
+
+- FONT SIZE (px):
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- FONT WEIGHT:
+Default: 400
+
+- LINE HEIGHT:
+Default: 1
+
+<--- 02 COLORS --->
+
+- Primary: #e67e22
+- Tints:
+- Shades:
+- Accents:
+- Greys: #555
+
+<--- 05 SHADOWS --->
+
+<--- 06 BORDER RADIUS --->
+
+<--- 07 WHITESPACE --->
+
+- SPACING SYSTEM (px):
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128 
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    /* font-size: 10px; */
+    /* 10px / 16px = 0.625 = 62.5% */
+    /* presntase dari font-size browser setting pengguna  */
+    font-size: 62.5%;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1;
+    font-weight: 400;
+    color: #555;
+}
+
+.test {
+    /* width: 1000px; */
+    /* 
+    Properti max-width dalam CSS digunakan untuk menetapkan lebar maksimum elemen. Ini membatasi lebar elemen agar tidak melebihi nilai yang ditentukan 
+    */
+    /* max-width: 1000px; */
+
+    max-width: 50rem;
+    /* rem adalah ukuran font */
+    /* default 1rem = 16px  */
+    background-color: red;
+    padding: 4rem;
+    font-size: 2rem;
+    color: #fff;
+}
+
+
+
+
+
