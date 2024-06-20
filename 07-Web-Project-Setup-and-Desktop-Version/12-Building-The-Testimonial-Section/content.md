@@ -104,7 +104,6 @@ Omnifood is a life saver! I just started a company, so there's no time for cooki
 I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
 
 ### Section with logos of featured publications [see images]
-
 ### Contact information
 
 Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
