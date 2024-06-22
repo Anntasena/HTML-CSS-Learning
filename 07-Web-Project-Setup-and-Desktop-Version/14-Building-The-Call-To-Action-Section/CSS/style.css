@@ -462,3 +462,56 @@
     font-size: 1.8rem;
     line-height: 1.8;
 }
+
+/********************************/
+/* CTA SECTION */
+/********************************/
+
+.section-cta {
+    padding: 9.8rem 0;
+}
+
+.cta {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    box-shadow: 0 2.4rem 4.4rem rgba(0, 0, 0, 0.075);
+    border-radius: 11px;
+    height: 50rem;
+    overflow: hidden;
+
+    background-image: linear-gradient(to bottom right, #eb984e, #e67e22);
+}
+
+.cta-text-box {
+    color: #45360a;
+    padding: 4.8rem 6.4rem 6.4rem 6.4rem;
+}
+
+.cta .heading-secondary {
+    color: #45360a;
+    margin-bottom: 3.2rem;
+}
+
+.cta-text {
+    font-size: 1.8rem;
+    line-height: 1.8;
+    margin-bottom: 4.8rem;
+}
+
+.cta-img-box {
+    background-image: linear-gradient(
+            to bottom right,
+            rgba(235, 151, 78, 0.35),
+            rgba(230, 125, 34, 0.35)
+        ),
+        url("../img/eating.jpg");
+    background-size: cover;
+}
+
+
+.cta-form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    column-gap:3.2rem ;
+    row-gap: 2.4rem;
+}
