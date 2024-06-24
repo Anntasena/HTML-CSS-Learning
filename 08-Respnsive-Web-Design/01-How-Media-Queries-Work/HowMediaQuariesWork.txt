@@ -1,0 +1,35 @@
+((  HOW MEDIA QUARIES WORKS ))
+
+-------------------------------------
+( Media quaries work with max-width )
+( Dekstop Strategy )
+-------------------------------------
+
+-------------------------------------
+( Media quaries work with min-width )
+( Phone Strategy )
+-------------------------------------
+
+> Dalam media quaries block syntax terakhirlah yang akan diterapkan
+
+
+( Strategies for selecting Brakpoints )
+
+> Apa itu breakpoint?
+  - breakpoint adalah viewport yang kita inginkan atau dirancang untuk berubah, atau dengan kata lain breakpoint adalah nilai pixel yang ingin kita masukan kedalam semua media query
+
+{BAD STRATEGY}
+> breakpoint ditentukan menggunakan perangkat populer seperti produk apple
+  - ini memang cara termudah untuk melakukan breakpoint tetapi namun jangan di lakukan lagi dikarnakan
+    + 1. apabila kita mengoptimalkan untuk satu perangkat yang sangat spesifik, kita mengabaikan semua perangkat lain
+    + 2. ini adalah strategi yang sangat buruk untuk memelihara kode kita, dan menjaganya agar tetap up to date dimasa depan
+
+{GOOD STRATEGY}
+> breakpoint ditentukan pada rentang lebar layar
+  - cara ini melihat lebar dari katagori device dan mengelompokannya dalam berberapa cara yang logis kemudian menentukan breakpoint
+
+{PERFECT STRATEGY}
+> pada dasarnya menetapkan breakpoint ditempat-tempat dimana desainnya rusak
+  - strategi ini kita boleh mengabaikan device dan katagori device dan hanya melihat konten dan desain yang kita buat
+    + 1. cara pertama kita memulai pada satu ukuran layar, baik dekstop atau mobile, lalu mengurangi / memperbesar layar
+    + 2. saat desainnya rusak akibat perbesaran / pengecilan layar, yang berarti desainnya tidak dapat di terima, barulah kita membuat breakpoint
